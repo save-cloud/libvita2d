@@ -13,8 +13,8 @@
 #include "utils.h"
 #include "shared.h"
 
-#define ATLAS_DEFAULT_W 512
-#define ATLAS_DEFAULT_H 512
+#define ATLAS_DEFAULT_W 4096
+#define ATLAS_DEFAULT_H 4096
 
 typedef struct vita2d_pgf_font_handle {
 	SceFontHandle font_handle;

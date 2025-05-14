@@ -13,8 +13,8 @@
 #include "utils.h"
 #include "shared.h"
 
-#define ATLAS_DEFAULT_W 512
-#define ATLAS_DEFAULT_H 512
+#define ATLAS_DEFAULT_W 4096
+#define ATLAS_DEFAULT_H 4096
 
 #define PVF_GLYPH_MARGIN 2
 
